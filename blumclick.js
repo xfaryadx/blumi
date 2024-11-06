@@ -3,8 +3,8 @@
   window.BlumAC = true;
   
   const autoPlay = true;
-  const gc = [208, 216, 0]; // Warna hijau yang ada sebelumnya
-  const freezeColor = [159, 235, 243]; // Warna biru freeze
+  const gc = [208, 216, 0];
+  const freezeColor = [159, 235, 243];
   const tolerance = 5;
   
   if (autoPlay) {
